@@ -1,15 +1,15 @@
 [theme]
 # Accent color (buttons, active elements) → science magenta
-primaryColor = "#1f77b4"
+primaryColor = "rgba(38, 140, 212, 0.78)"
 
 # Main content background → deep lab dark blue
-backgroundColor = "#ffffff"
+backgroundColor = "#090101fb"
 
 # Sidebar & widgets → darker teal for separation
-secondaryBackgroundColor = "#f0f2f6"
+secondaryBackgroundColor = "#9686fbf5"
 
 # Text color → near white for good contrast
-textColor = "#262730"
+textColor = "#dcdcdcff"
 
 # Font: clean, modern (you can switch to "serif" if you want a research-paper vibe)
 font = "sans serif"
